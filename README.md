@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Daniel%20Pati%C3%B1o%20Zapata&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%7CQA%20Engineer%20%7C%20Manual%20Testing%20%7C%20Automation%20Testing%20%7C%20API%20Testing%20%7C%20SQL%20%7C%20Selenium%20%7C%20Python&descSize=18&descAlignY=55&textBg=false"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Daniel Patiño Zapata</h1>
+<h3 align="center">QA Engineer|QA Engineer | Manual Testing | Automation Testing | API Testing | SQL | Selenium | Python</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=DanielEduardoPZ">
