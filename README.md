@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Daniel Patiño Zapata</h1>
-<h3 align="center">QA Engineer|QA Engineer | Manual Testing | Automation Testing | API Testing | SQL | Selenium | Python</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Daniel Patiño Zapata</h1>
+<h3 align="center">QA Engineer | Manual Testing | Automation Testing | API Testing | SQL | Selenium | Python</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=DanielEduardoPZ">
